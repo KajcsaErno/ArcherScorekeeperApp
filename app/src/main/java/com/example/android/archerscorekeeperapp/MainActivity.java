@@ -39,7 +39,8 @@ public class MainActivity extends AppCompatActivity {
         outState.putInt(ARCHER_KEY2, scoreArcher2);
 
       /*  Toast.makeText(this, "onSaveInstanceState()", Toast.LENGTH_LONG).show();
-        Log.d("onSaveInstanceState", "onSaveInstanceState()");*/
+        Log.d("onSaveInstanceState", "onSaveInstanceState()");
+        */
 
     }
 
