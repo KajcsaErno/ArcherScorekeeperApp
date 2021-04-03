@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArcherScoreKeeperapp.iml" filepath="$PROJECT_DIR$/ArcherScoreKeeperapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArcherScorekeeperApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ArcherScorekeeperApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ArcherScorekeeperApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ArcherScorekeeperApp.app.iml" />
     </modules>
   </component>
 </project>
