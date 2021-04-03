@@ -1,17 +1,14 @@
 # Score Keeper App
 The goal is to create a Score Keeper app which gives a user the ability to keep track of the score of two different teams playing a game of my choice.
 
-## Requirements ##
-Your design must include:
+## What I learned? ##
+This project is about combining various ideas and skills I’ve been practicing throughout the course. They include:
 
-* Business name
-* At least one photo representing the business
-* Two or more other pieces of information, such as:
-  * Contact information for the business (eg phone number, email address, website)
-  * Address of the Business
-  * Description of business
-  * Hours of operation
+* Adding button code to your app
+* Updating views
+* Properly scoping variables
+* Finding views by their ID
 
 ## Final result of my project - Archer Scorekeeper App
 
-![image](https://user-images.githubusercontent.com/31850356/113475141-0e2ed700-9474-11eb-82d7-fd25cb67a2e2.png)
+![image](https://user-images.githubusercontent.com/31850356/113475141-0e2ed700-9474-11eb-82d7-fd25cb67a2e2.png)(https://www.youtube.com/watch?v=DDV6UHTEUKc)
