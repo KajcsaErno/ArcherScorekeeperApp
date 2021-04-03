@@ -1,5 +1,5 @@
 # Score Keeper App
-The goal is to create a Score Keeper app which gives a user the ability to keep track of the score of two different teams playing a game of my choice.
+The goal is to create a **Score Keeper** app which gives a user the ability to keep track of the score of two different teams playing a game of my choice.
 
 ## What I learned? ##
 This project is about combining various ideas and skills I’ve been practicing throughout the course. They include:
