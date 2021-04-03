@@ -10,5 +10,6 @@ This project is about combining various ideas and skills I’ve been practicing 
 * Finding views by their ID
 
 ## Final result of my project - Archer Scorekeeper App
+Try it yourself: *[Archery.apk](https://www.mediafire.com/file/0rhtgrb21yjmm0o/Archery.apk/file)*
 
 [![image](https://user-images.githubusercontent.com/31850356/113475141-0e2ed700-9474-11eb-82d7-fd25cb67a2e2.png)](https://www.youtube.com/watch?v=DDV6UHTEUKc)
